@@ -22,3 +22,4 @@ Logging CI/CD Innovation distinguishes between a leader and a follower. Microser
 Great things never come from comfort zones. Data Science Automation Zero Downtime Deployment NLP
 Big Data Predictive Analytics Machine Learning If you can dream it, you can do it. Database Indexing Kubernetes JWT Load Balancing Success usually comes to those who are too busy to be looking for it. GraphQL
 Quantum Computing Blockchain Pull Request Testing React Database
+Multi-threading DNS Routing Simplicity is the ultimate sophistication. Load Testing Cache Invalidation Message Queue Lambda Functions I find that the harder I work, the more luck I seem to have. Container Orchestration Innovation distinguishes between a leader and a follower. Neural Networks
