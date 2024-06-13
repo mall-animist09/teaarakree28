@@ -27,3 +27,4 @@ Success is not in what you have, but who you are. Simplicity is the ultimate sop
 Machine Learning Scalability Success is how high you bounce when you hit bottom. Server Response I find that the harder I work, the more luck I seem to have. Message Queue Stay hungry, stay foolish. Zero Downtime Deployment
 Monitoring Python Microservices Testing I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Deployment Security
 Event-driven Architecture JavaScript Python Monitoring Load Testing Kubernetes Artificial Intelligence Parallel Processing Code Review Success usually comes to those who are too busy to be looking for it. DevOps
+Framework Data Pipeline Pull Request Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Cache Invalidation Predictive Analytics To be the best, you must be able to handle the worst.
