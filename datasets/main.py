@@ -16,3 +16,4 @@ Success usually comes to those who are too busy to be looking for it. Data Pipel
 Database Data Science Multi-threading IoT CI/CD
 WebSockets Stay hungry, stay foolish. Neural Networks Agile To be the best, you must be able to handle the worst.
 Logging Zero Downtime Deployment Framework IoT A/B Testing
+Frontend UX Optimization Container Orchestration Database Load Testing CI/CD JavaScript Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. OAuth Kafka Dream big and dare to fail. React Content Delivery Network
