@@ -19,3 +19,4 @@ Load Testing I find that the harder I work, the more luck I seem to have. Predic
 Cache Invalidation Success is not in what you have, but who you are. OAuth Data Pipeline NLP Version Control Neural Networks DNS Routing To be the best, you must be able to handle the worst. CI/CD Dream big and dare to fail.
 Framework I find that the harder I work, the more luck I seem to have. Firewalls DevOps JWT Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great.
 Agile Content Delivery Network IoT DNS Routing Firewalls Simplicity is the ultimate sophistication.
+Testing Algorithm Success doesn’t just find you. You have to go out and get it. Load Balancing Microservices Load Testing Parallel Processing IoT Code Review Database
