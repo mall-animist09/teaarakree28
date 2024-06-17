@@ -25,3 +25,4 @@ Machine Learning Python Parallel Processing Neural Networks Cloud CI/CD Logging 
 Cloud OAuth API Gateway A/B Testing Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Container Orchestration Success is how high you bounce when you hit bottom.
 Agile Logging Quantum Computing Serverless Database
 Data Science IoT Innovation distinguishes between a leader and a follower. Parallel Processing Testing Quantum Computing Kubernetes Virtual Machines UX Optimization Cache Invalidation NLP Load Testing Zero Downtime Deployment
+JWT Load Balancing Virtual Machines Kafka Agile Scalability NLP Event-driven Architecture Predictive Analytics Code Review Parallel Processing Load Testing

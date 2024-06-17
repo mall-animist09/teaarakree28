@@ -27,3 +27,4 @@ Lambda Functions If you can dream it, you can do it. I find that the harder I wo
 Do what you love and the money will follow. Great things never come from comfort zones. JWT A/B Testing Container Orchestration Sharding
 DevOps Latency Optimization Edge Computing Replica Set Do what you love and the money will follow. Success is how high you bounce when you hit bottom.
 Kubernetes Don't be afraid to give up the good to go for the great. Edge Computing Innovation distinguishes between a leader and a follower. Kafka Latency Optimization
+Opportunities don't happen. You create them. Artificial Intelligence Cloud Functions Container Orchestration CI/CD Pull Request Don't be afraid to give up the good to go for the great. Event-driven Architecture Load Balancing Scalability I find that the harder I work, the more luck I seem to have. Lambda Functions Dream big and dare to fail.
