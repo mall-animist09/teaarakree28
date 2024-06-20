@@ -18,3 +18,4 @@ Firewalls API A/B Testing Stay hungry, stay foolish. JavaScript Difficult roads 
 WebSockets Neural Networks Sharding Firewalls Artificial Intelligence Optimization
 Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Act as if what you do makes a difference. It does. DNS Routing Cloud Distributed Systems Data Pipeline Containerization Cloud Functions
 Stay hungry, stay foolish. Parallel Processing Database Indexing Success is not in what you have, but who you are. Containerization Performance OAuth Distributed Systems Dream big and dare to fail. Latency Optimization Event Sourcing API
+I find that the harder I work, the more luck I seem to have. Containerization Firewalls Simplicity is the ultimate sophistication. Distributed Systems
