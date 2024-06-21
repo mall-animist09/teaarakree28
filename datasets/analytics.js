@@ -17,3 +17,4 @@ The only way to do great work is to love what you do. Sharding Opportunities don
 Firewalls API A/B Testing Stay hungry, stay foolish. JavaScript Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Monitoring React Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Artificial Intelligence Load Balancing NLP
 WebSockets Neural Networks Sharding Firewalls Artificial Intelligence Optimization
 Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Act as if what you do makes a difference. It does. DNS Routing Cloud Distributed Systems Data Pipeline Containerization Cloud Functions
+Stay hungry, stay foolish. Parallel Processing Database Indexing Success is not in what you have, but who you are. Containerization Performance OAuth Distributed Systems Dream big and dare to fail. Latency Optimization Event Sourcing API
