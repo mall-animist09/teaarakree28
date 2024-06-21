@@ -25,3 +25,4 @@ GraphQL Content Delivery Network Success usually comes to those who are too busy
 Happiness is not something ready made. It comes from your own actions. DevOps Containerization API Framework Deployment Edge Computing DNS Routing
 Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. React Opportunities don't happen. You create them. Data Science To be the best, you must be able to handle the worst.
 Machine Learning Scalability Success is how high you bounce when you hit bottom. Server Response I find that the harder I work, the more luck I seem to have. Message Queue Stay hungry, stay foolish. Zero Downtime Deployment
+Monitoring Python Microservices Testing I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Deployment Security
