@@ -13,3 +13,4 @@ GraphQL Virtual Machines Big Data If you can dream it, you can do it. Parallel P
 Message Queue Neural Networks Dream big and dare to fail. Multi-threading Edge Computing Container Orchestration
 Neural Networks JWT A/B Testing Version Control Scalability JavaScript Cloud
 Performance Parallel Processing Kubernetes Big Data Server Response CI/CD
+Algorithm DevOps Artificial Intelligence Machine Learning Docker Quantum Computing GraphQL Security
