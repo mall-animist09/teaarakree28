@@ -26,3 +26,4 @@ Replica Set I find that the harder I work, the more luck I seem to have. Load Te
 Sharding Machine Learning Container Orchestration Scalability Load Testing JWT Version Control Python Cache Invalidation Success doesn’t just find you. You have to go out and get it. CI/CD Testing Framework Docker Blockchain
 Container Orchestration Content Delivery Network Cloud Functions Quantum Computing Testing Performance Sharding Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Cloud API Gateway Docker Message Queue UX Optimization Algorithm
 Success doesn’t just find you. You have to go out and get it. Version Control Cloud Functions Dream big and dare to fail. GraphQL Blockchain If you can dream it, you can do it. Lambda Functions
+Simplicity is the ultimate sophistication. Neural Networks Database Indexing CI/CD Backend

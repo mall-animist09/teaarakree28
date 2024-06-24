@@ -23,3 +23,4 @@ Sharding Database Indexing Frontend Content Delivery Network DevOps Automation D
 Blockchain Success usually comes to those who are too busy to be looking for it. React Difficult roads often lead to beautiful destinations. Replica Set Content Delivery Network NLP UX Optimization Pull Request Backend Artificial Intelligence
 Machine Learning Python Parallel Processing Neural Networks Cloud CI/CD Logging Kafka Code Review Message Queue Lambda Functions JWT A/B Testing Cache Invalidation Database
 Cloud OAuth API Gateway A/B Testing Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Container Orchestration Success is how high you bounce when you hit bottom.
+Agile Logging Quantum Computing Serverless Database
