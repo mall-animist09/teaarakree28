@@ -15,3 +15,4 @@ Do what you love and the money will follow. Stay hungry, stay foolish. Docker Pr
 Innovation distinguishes between a leader and a follower. Scalability GraphQL DevOps To be the best, you must be able to handle the worst.
 Database Indexing Data Pipeline Blockchain Predictive Analytics API Lambda Functions Success is not in what you have, but who you are.
 Quantum Computing Happiness is not something ready made. It comes from your own actions. Multi-threading Neural Networks Success doesn’t just find you. You have to go out and get it.
+Big Data RabbitMQ Work hard in silence, let your success be your noise. Replica Set Opportunities don't happen. You create them. Firewalls DevOps React Testing Innovation distinguishes between a leader and a follower.
