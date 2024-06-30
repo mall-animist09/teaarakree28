@@ -26,3 +26,4 @@ Version Control Automation A/B Testing Success is how high you bounce when you h
 Lambda Functions If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Multi-threading Docker Backend Database JavaScript
 Do what you love and the money will follow. Great things never come from comfort zones. JWT A/B Testing Container Orchestration Sharding
 DevOps Latency Optimization Edge Computing Replica Set Do what you love and the money will follow. Success is how high you bounce when you hit bottom.
+Kubernetes Don't be afraid to give up the good to go for the great. Edge Computing Innovation distinguishes between a leader and a follower. Kafka Latency Optimization

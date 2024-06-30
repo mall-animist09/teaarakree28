@@ -12,3 +12,4 @@ Difficult roads often lead to beautiful destinations. Replica Set Cloud Event So
 GraphQL Virtual Machines Big Data If you can dream it, you can do it. Parallel Processing Container Orchestration Success is not in what you have, but who you are. Code Review Opportunities don't happen. You create them. React Optimization
 Message Queue Neural Networks Dream big and dare to fail. Multi-threading Edge Computing Container Orchestration
 Neural Networks JWT A/B Testing Version Control Scalability JavaScript Cloud
+Performance Parallel Processing Kubernetes Big Data Server Response CI/CD
