@@ -17,3 +17,4 @@ IoT Load Balancing Testing Message Queue I find that the harder I work, the more
 Container Orchestration Scalability Success usually comes to those who are too busy to be looking for it. Version Control Stay hungry, stay foolish.
 Sharding Algorithm React Server Response Multi-threading IoT
 Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Edge Computing
+Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Neural Networks React Innovation distinguishes between a leader and a follower. Edge Computing I find that the harder I work, the more luck I seem to have. Load Testing
