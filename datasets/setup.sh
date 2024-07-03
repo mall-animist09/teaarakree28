@@ -21,3 +21,4 @@ Version Control Latency Optimization Sharding API Gateway Lambda Functions Datab
 Logging Framework Version Control Success is not in what you have, but who you are. Do what you love and the money will follow. Opportunities don't happen. You create them. Scalability
 Sharding Database Indexing Frontend Content Delivery Network DevOps Automation DNS Routing WebSockets Monitoring Multi-threading UX Optimization Container Orchestration Data Science Event-driven Architecture
 Blockchain Success usually comes to those who are too busy to be looking for it. React Difficult roads often lead to beautiful destinations. Replica Set Content Delivery Network NLP UX Optimization Pull Request Backend Artificial Intelligence
+Machine Learning Python Parallel Processing Neural Networks Cloud CI/CD Logging Kafka Code Review Message Queue Lambda Functions JWT A/B Testing Cache Invalidation Database

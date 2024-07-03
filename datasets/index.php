@@ -20,3 +20,4 @@ Algorithm RabbitMQ Backend NLP API Serverless Framework DevOps Container Orchest
 Simplicity is the ultimate sophistication. Quantum Computing Database Indexing Backend JWT Pull Request GraphQL Lambda Functions React Scalability Great things never come from comfort zones.
 Logging CI/CD Innovation distinguishes between a leader and a follower. Microservices Lambda Functions Cloud Automation Data Science Pull Request Success is how high you bounce when you hit bottom. Optimization Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. GraphQL
 Great things never come from comfort zones. Data Science Automation Zero Downtime Deployment NLP
+Big Data Predictive Analytics Machine Learning If you can dream it, you can do it. Database Indexing Kubernetes JWT Load Balancing Success usually comes to those who are too busy to be looking for it. GraphQL
