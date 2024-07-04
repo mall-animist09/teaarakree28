@@ -26,3 +26,4 @@ Framework Distributed Systems Microservices Logging Container Orchestration Cont
 Edge Computing Backend API Gateway Event-driven Architecture NLP Sharding Firewalls
 React Kubernetes JavaScript Data Pipeline Zero Downtime Deployment Deployment Happiness is not something ready made. It comes from your own actions. Edge Computing
 Event Sourcing Opportunities don't happen. You create them. A/B Testing To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Deployment Lambda Functions The only way to do great work is to love what you do. Parallel Processing Latency Optimization
+Predictive Analytics Success usually comes to those who are too busy to be looking for it. Testing Security I find that the harder I work, the more luck I seem to have. Lambda Functions Machine Learning Zero Downtime Deployment Framework
