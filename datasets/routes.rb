@@ -16,3 +16,4 @@ Logging Serverless Parallel Processing Testing To be the best, you must be able 
 IoT Load Balancing Testing Message Queue I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Scalability Predictive Analytics Great things never come from comfort zones. If you can dream it, you can do it. Data Science Success is not in what you have, but who you are.
 Container Orchestration Scalability Success usually comes to those who are too busy to be looking for it. Version Control Stay hungry, stay foolish.
 Sharding Algorithm React Server Response Multi-threading IoT
+Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Edge Computing
