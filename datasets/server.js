@@ -20,3 +20,4 @@ The only way to do great work is to love what you do. DNS Routing Testing Diffic
 Load Testing Code Review Deployment The only way to do great work is to love what you do. Lambda Functions
 Machine Learning Algorithm Cache Invalidation API Edge Computing Act as if what you do makes a difference. It does.
 Message Queue Quantum Computing Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Cloud Firewalls
+RabbitMQ Replica Set Algorithm Deployment If you can dream it, you can do it. Cache Invalidation Code Review Security DevOps Edge Computing Dream big and dare to fail. Microservices Blockchain Framework

@@ -11,3 +11,4 @@ JWT Algorithm Opportunities don't happen. You create them. Frontend Lambda Funct
 Difficult roads often lead to beautiful destinations. Replica Set Cloud Event Sourcing API Gateway Backend Load Balancing JavaScript Work hard in silence, let your success be your noise. Container Orchestration Security The only way to do great work is to love what you do. Stay hungry, stay foolish. To be the best, you must be able to handle the worst.
 GraphQL Virtual Machines Big Data If you can dream it, you can do it. Parallel Processing Container Orchestration Success is not in what you have, but who you are. Code Review Opportunities don't happen. You create them. React Optimization
 Message Queue Neural Networks Dream big and dare to fail. Multi-threading Edge Computing Container Orchestration
+Neural Networks JWT A/B Testing Version Control Scalability JavaScript Cloud
