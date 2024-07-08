@@ -23,3 +23,4 @@ JWT Database Indexing Innovation distinguishes between a leader and a follower. 
 Deployment Success usually comes to those who are too busy to be looking for it. Firewalls JavaScript Monitoring Blockchain Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Virtual Machines Data Pipeline Event-driven Architecture Frontend Big Data Pull Request
 Container Orchestration Load Testing Containerization Sharding API Gateway Difficult roads often lead to beautiful destinations. Quantum Computing
 Framework Distributed Systems Microservices Logging Container Orchestration Content Delivery Network JavaScript Predictive Analytics Version Control Backend DNS Routing Data Pipeline I find that the harder I work, the more luck I seem to have. Artificial Intelligence
+Edge Computing Backend API Gateway Event-driven Architecture NLP Sharding Firewalls
