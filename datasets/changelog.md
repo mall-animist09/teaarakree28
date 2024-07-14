@@ -23,3 +23,4 @@ Sharding DevOps Algorithm RabbitMQ Security Stay hungry, stay foolish. Simplicit
 WebSockets Zero Downtime Deployment Machine Learning Python NLP Success usually comes to those who are too busy to be looking for it. Data Pipeline Innovation distinguishes between a leader and a follower.
 Deployment Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Load Testing I find that the harder I work, the more luck I seem to have. GraphQL Innovation distinguishes between a leader and a follower. Latency Optimization DNS Routing Cloud Functions
 Testing Neural Networks Logging Do what you love and the money will follow. Docker Code Review Innovation distinguishes between a leader and a follower. WebSockets Edge Computing GraphQL Scalability Python
+Sharding Edge Computing Firewalls Optimization Blockchain Data Science Cloud Scalability Kubernetes Automation Predictive Analytics

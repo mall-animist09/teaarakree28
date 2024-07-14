@@ -20,3 +20,4 @@ React Security Kubernetes Framework Happiness is not something ready made. It co
 Version Control Latency Optimization Sharding API Gateway Lambda Functions Database Indexing Server Response Stay hungry, stay foolish. Performance Pull Request Load Testing
 Logging Framework Version Control Success is not in what you have, but who you are. Do what you love and the money will follow. Opportunities don't happen. You create them. Scalability
 Sharding Database Indexing Frontend Content Delivery Network DevOps Automation DNS Routing WebSockets Monitoring Multi-threading UX Optimization Container Orchestration Data Science Event-driven Architecture
+Blockchain Success usually comes to those who are too busy to be looking for it. React Difficult roads often lead to beautiful destinations. Replica Set Content Delivery Network NLP UX Optimization Pull Request Backend Artificial Intelligence
