@@ -21,3 +21,4 @@ Success usually comes to those who are too busy to be looking for it. Testing Ma
 API Gateway Work hard in silence, let your success be your noise. Big Data Version Control Database Indexing Replica Set Artificial Intelligence Docker Act as if what you do makes a difference. It does. Containerization Monitoring
 Act as if what you do makes a difference. It does. Sharding Code Review Database Indexing WebSockets Container Orchestration Neural Networks
 I find that the harder I work, the more luck I seem to have. Version Control Logging Kafka To be the best, you must be able to handle the worst. Agile Dream big and dare to fail. Code Review Optimization Database
+Agile Quantum Computing RabbitMQ Blockchain Difficult roads often lead to beautiful destinations. Optimization Work hard in silence, let your success be your noise. React Replica Set Simplicity is the ultimate sophistication. UX Optimization Security
