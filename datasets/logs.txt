@@ -11,3 +11,4 @@ Simplicity is the ultimate sophistication. Innovation distinguishes between a le
 Neural Networks API Multi-threading JWT Quantum Computing Success doesn’t just find you. You have to go out and get it. CI/CD Scalability Containerization
 Framework Do what you love and the money will follow. To be the best, you must be able to handle the worst. Agile Edge Computing Predictive Analytics Simplicity is the ultimate sophistication.
 Act as if what you do makes a difference. It does. Predictive Analytics Firewalls Algorithm Frontend Edge Computing Cloud
+Do what you love and the money will follow. Stay hungry, stay foolish. Docker Predictive Analytics Version Control Performance Replica Set Lambda Functions Containerization
