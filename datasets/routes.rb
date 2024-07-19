@@ -14,3 +14,4 @@ Cache Invalidation Dream big and dare to fail. JavaScript A/B Testing Edge Compu
 DevOps Kubernetes Docker Load Balancing The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Cloud Functions If you can dream it, you can do it. Lambda Functions
 Logging Serverless Parallel Processing Testing To be the best, you must be able to handle the worst. Neural Networks
 IoT Load Balancing Testing Message Queue I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Scalability Predictive Analytics Great things never come from comfort zones. If you can dream it, you can do it. Data Science Success is not in what you have, but who you are.
+Container Orchestration Scalability Success usually comes to those who are too busy to be looking for it. Version Control Stay hungry, stay foolish.
