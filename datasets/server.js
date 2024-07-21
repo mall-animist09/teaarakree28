@@ -18,3 +18,4 @@ Great things never come from comfort zones. Machine Learning JavaScript API Data
 Security Data Pipeline Microservices Do what you love and the money will follow. CI/CD Data Science Difficult roads often lead to beautiful destinations. Docker JavaScript React RabbitMQ Load Testing Success usually comes to those who are too busy to be looking for it.
 The only way to do great work is to love what you do. DNS Routing Testing Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Dream big and dare to fail. UX Optimization I find that the harder I work, the more luck I seem to have. CI/CD Frontend Simplicity is the ultimate sophistication.
 Load Testing Code Review Deployment The only way to do great work is to love what you do. Lambda Functions
+Machine Learning Algorithm Cache Invalidation API Edge Computing Act as if what you do makes a difference. It does.
