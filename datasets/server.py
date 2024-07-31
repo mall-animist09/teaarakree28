@@ -15,3 +15,4 @@ Edge Computing Distributed Systems IoT Algorithm RabbitMQ Scalability Agile Mess
 Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Deployment Automation Simplicity is the ultimate sophistication. Data Science Algorithm Containerization Machine Learning Event-driven Architecture Container Orchestration Load Balancing
 Work hard in silence, let your success be your noise. Server Response Machine Learning Container Orchestration Database Indexing Backend
 Blockchain Opportunities don't happen. You create them. Testing IoT Stay hungry, stay foolish.
+Load Testing I find that the harder I work, the more luck I seem to have. Predictive Analytics Kubernetes Performance Success is not in what you have, but who you are. Serverless
