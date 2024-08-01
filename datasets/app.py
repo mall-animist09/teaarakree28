@@ -18,3 +18,4 @@ Frontend Multi-threading Automation Serverless Sharding
 A/B Testing Difficult roads often lead to beautiful destinations. Quantum Computing Big Data Frontend Firewalls Load Balancing Neural Networks
 Pull Request Event Sourcing Success is how high you bounce when you hit bottom. Message Queue Version Control Logging Neural Networks Data Pipeline Edge Computing Framework Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. Firewalls Dream big and dare to fail. Serverless
 Machine Learning Kubernetes Neural Networks NLP Stay hungry, stay foolish. WebSockets Monitoring Act as if what you do makes a difference. It does. Load Balancing Logging Python Predictive Analytics GraphQL Database If you can dream it, you can do it.
+Success doesn’t just find you. You have to go out and get it. Event Sourcing Python Content Delivery Network Zero Downtime Deployment Version Control Frontend
