@@ -19,3 +19,4 @@ If you can dream it, you can do it. Version Control Logging Load Balancing Succe
 Algorithm RabbitMQ Backend NLP API Serverless Framework DevOps Container Orchestration Blockchain API Gateway Sharding
 Simplicity is the ultimate sophistication. Quantum Computing Database Indexing Backend JWT Pull Request GraphQL Lambda Functions React Scalability Great things never come from comfort zones.
 Logging CI/CD Innovation distinguishes between a leader and a follower. Microservices Lambda Functions Cloud Automation Data Science Pull Request Success is how high you bounce when you hit bottom. Optimization Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. GraphQL
+Great things never come from comfort zones. Data Science Automation Zero Downtime Deployment NLP
