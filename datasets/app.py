@@ -16,3 +16,4 @@ Act as if what you do makes a difference. It does. Sharding Cloud Difficult road
 Opportunities don't happen. You create them. The only way to do great work is to love what you do. Parallel Processing Optimization Kafka Edge Computing If you can dream it, you can do it. Testing Event Sourcing Happiness is not something ready made. It comes from your own actions. Load Testing CI/CD Artificial Intelligence
 Frontend Multi-threading Automation Serverless Sharding
 A/B Testing Difficult roads often lead to beautiful destinations. Quantum Computing Big Data Frontend Firewalls Load Balancing Neural Networks
+Pull Request Event Sourcing Success is how high you bounce when you hit bottom. Message Queue Version Control Logging Neural Networks Data Pipeline Edge Computing Framework Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. Firewalls Dream big and dare to fail. Serverless
