@@ -20,3 +20,4 @@ React Data Science Data Pipeline Sharding Serverless JWT Version Control Fronten
 Success usually comes to those who are too busy to be looking for it. Testing Machine Learning Load Balancing Event Sourcing RabbitMQ Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Message Queue Event-driven Architecture Version Control Python
 API Gateway Work hard in silence, let your success be your noise. Big Data Version Control Database Indexing Replica Set Artificial Intelligence Docker Act as if what you do makes a difference. It does. Containerization Monitoring
 Act as if what you do makes a difference. It does. Sharding Code Review Database Indexing WebSockets Container Orchestration Neural Networks
+I find that the harder I work, the more luck I seem to have. Version Control Logging Kafka To be the best, you must be able to handle the worst. Agile Dream big and dare to fail. Code Review Optimization Database
