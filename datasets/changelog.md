@@ -18,3 +18,4 @@ Predictive Analytics Blockchain Serverless Event-driven Architecture Deployment 
 Pull Request Cloud Functions Success usually comes to those who are too busy to be looking for it. Scalability Predictive Analytics JavaScript
 Version Control Do what you love and the money will follow. Dream big and dare to fail. CI/CD Performance Neural Networks Happiness is not something ready made. It comes from your own actions.
 Success usually comes to those who are too busy to be looking for it. Message Queue Do what you love and the money will follow. Optimization Kafka Parallel Processing Firewalls Multi-threading Framework Difficult roads often lead to beautiful destinations. Docker Microservices Pull Request
+Kafka JavaScript Deployment Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Testing Container Orchestration Cloud Functions Difficult roads often lead to beautiful destinations. UX Optimization Big Data
