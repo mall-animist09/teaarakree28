@@ -21,3 +21,4 @@ Predictive Analytics IoT Opportunities don't happen. You create them. Kubernetes
 Container Orchestration Content Delivery Network Innovation distinguishes between a leader and a follower. Multi-threading Monitoring Message Queue
 Lambda Functions I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. Kafka Performance DNS Routing Automation Kubernetes Backend
 Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. React If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. IoT Automation Event Sourcing Success usually comes to those who are too busy to be looking for it. Docker Testing
+OAuth If you can dream it, you can do it. Pull Request API Gateway Testing
