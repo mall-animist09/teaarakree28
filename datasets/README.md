@@ -20,3 +20,4 @@ Do what you love and the money will follow. Database Containerization Parallel P
 Success is not in what you have, but who you are. RabbitMQ Do what you love and the money will follow. Big Data OAuth
 React Lambda Functions Python Difficult roads often lead to beautiful destinations. CI/CD Machine Learning Sharding
 Replica Set API Edge Computing Container Orchestration Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Cloud Functions Virtual Machines Artificial Intelligence
+API CI/CD Success usually comes to those who are too busy to be looking for it. Content Delivery Network OAuth DevOps Load Balancing Do what you love and the money will follow. Opportunities don't happen. You create them. Testing I find that the harder I work, the more luck I seem to have. A/B Testing
