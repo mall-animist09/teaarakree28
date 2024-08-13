@@ -9,3 +9,4 @@ Version Control CI/CD Load Testing If you can dream it, you can do it. Blockchai
 Artificial Intelligence Cloud Testing Agile Predictive Analytics React Lambda Functions WebSockets Don't be afraid to give up the good to go for the great.
 JWT Algorithm Opportunities don't happen. You create them. Frontend Lambda Functions Parallel Processing
 Difficult roads often lead to beautiful destinations. Replica Set Cloud Event Sourcing API Gateway Backend Load Balancing JavaScript Work hard in silence, let your success be your noise. Container Orchestration Security The only way to do great work is to love what you do. Stay hungry, stay foolish. To be the best, you must be able to handle the worst.
+GraphQL Virtual Machines Big Data If you can dream it, you can do it. Parallel Processing Container Orchestration Success is not in what you have, but who you are. Code Review Opportunities don't happen. You create them. React Optimization
