@@ -16,3 +16,4 @@ The only way to do great work is to love what you do. Logging Cloud Event-driven
 Firewalls API Algorithm Docker Security Latency Optimization DNS Routing
 Optimization API CI/CD Cloud The only way to do great work is to love what you do. Predictive Analytics Agile Microservices RabbitMQ I find that the harder I work, the more luck I seem to have. Security Difficult roads often lead to beautiful destinations. Distributed Systems Firewalls
 Event Sourcing Python Neural Networks OAuth Automation Testing I find that the harder I work, the more luck I seem to have. React Data Pipeline
+Python Artificial Intelligence Stay hungry, stay foolish. Data Pipeline API RabbitMQ Framework Work hard in silence, let your success be your noise. Content Delivery Network Sharding Cloud Functions Pull Request Docker Security The only way to do great work is to love what you do.
