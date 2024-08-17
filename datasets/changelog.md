@@ -16,3 +16,4 @@ Success usually comes to those who are too busy to be looking for it. CI/CD Cont
 DevOps Data Pipeline API Simplicity is the ultimate sophistication. Message Queue Stay hungry, stay foolish. UX Optimization Code Review Container Orchestration
 Predictive Analytics Blockchain Serverless Event-driven Architecture Deployment Virtual Machines DNS Routing JWT Don't be afraid to give up the good to go for the great. Lambda Functions Kubernetes CI/CD Data Science
 Pull Request Cloud Functions Success usually comes to those who are too busy to be looking for it. Scalability Predictive Analytics JavaScript
+Version Control Do what you love and the money will follow. Dream big and dare to fail. CI/CD Performance Neural Networks Happiness is not something ready made. It comes from your own actions.
