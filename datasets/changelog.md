@@ -14,3 +14,4 @@ Big Data Data Pipeline If you can dream it, you can do it. OAuth Dream big and d
 Testing Framework JavaScript Database Indexing Cloud Lambda Functions Event Sourcing
 Success usually comes to those who are too busy to be looking for it. CI/CD Container Orchestration Virtual Machines Pull Request Performance Scalability Do what you love and the money will follow.
 DevOps Data Pipeline API Simplicity is the ultimate sophistication. Message Queue Stay hungry, stay foolish. UX Optimization Code Review Container Orchestration
+Predictive Analytics Blockchain Serverless Event-driven Architecture Deployment Virtual Machines DNS Routing JWT Don't be afraid to give up the good to go for the great. Lambda Functions Kubernetes CI/CD Data Science
