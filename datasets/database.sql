@@ -16,3 +16,4 @@ Monitoring Event-driven Architecture Algorithm Distributed Systems Database Oppo
 Zero Downtime Deployment Framework Backend Virtual Machines Kafka Container Orchestration
 Python Data Science Code Review Backend WebSockets Act as if what you do makes a difference. It does. If you can dream it, you can do it. The only way to do great work is to love what you do. Parallel Processing Content Delivery Network Agile Simplicity is the ultimate sophistication. Stay hungry, stay foolish.
 Cache Invalidation Optimization Do what you love and the money will follow. Machine Learning Kafka
+Parallel Processing Sharding DNS Routing Success doesn’t just find you. You have to go out and get it. Virtual Machines Success is not in what you have, but who you are. Content Delivery Network Stay hungry, stay foolish. To be the best, you must be able to handle the worst. API Gateway React

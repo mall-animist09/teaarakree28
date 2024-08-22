@@ -13,3 +13,4 @@ Virtual Machines Content Delivery Network API Database Algorithm Scalability A/B
 Big Data Data Pipeline If you can dream it, you can do it. OAuth Dream big and dare to fail. Kafka CI/CD Simplicity is the ultimate sophistication.
 Testing Framework JavaScript Database Indexing Cloud Lambda Functions Event Sourcing
 Success usually comes to those who are too busy to be looking for it. CI/CD Container Orchestration Virtual Machines Pull Request Performance Scalability Do what you love and the money will follow.
+DevOps Data Pipeline API Simplicity is the ultimate sophistication. Message Queue Stay hungry, stay foolish. UX Optimization Code Review Container Orchestration
