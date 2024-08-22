@@ -13,3 +13,4 @@ NLP Containerization Version Control Docker Don't be afraid to give up the good 
 API Big Data Blockchain Docker Python Framework
 DNS Routing Artificial Intelligence DevOps Dream big and dare to fail. Big Data Automation A/B Testing Data Pipeline Event Sourcing Difficult roads often lead to beautiful destinations.
 Opportunities don't happen. You create them. Kafka Do what you love and the money will follow. Event-driven Architecture Big Data Load Balancing Machine Learning Frontend NLP Server Response Framework The only way to do great work is to love what you do.
+UX Optimization Predictive Analytics Zero Downtime Deployment Database Indexing React Dream big and dare to fail. Python Backend Code Review Edge Computing Opportunities don't happen. You create them.
