@@ -17,3 +17,4 @@ Performance Automation Security Quantum Computing Virtual Machines To be the bes
 Data Pipeline Algorithm Message Queue Sharding OAuth Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Backend Lambda Functions Quantum Computing Content Delivery Network Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions.
 If you can dream it, you can do it. Version Control Logging Load Balancing Success is not in what you have, but who you are. Serverless DevOps Event Sourcing
 Algorithm RabbitMQ Backend NLP API Serverless Framework DevOps Container Orchestration Blockchain API Gateway Sharding
+Simplicity is the ultimate sophistication. Quantum Computing Database Indexing Backend JWT Pull Request GraphQL Lambda Functions React Scalability Great things never come from comfort zones.
