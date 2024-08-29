@@ -11,3 +11,4 @@ Event-driven Architecture Backend Zero Downtime Deployment RabbitMQ Cloud Functi
 Kafka Optimization Replica Set Multi-threading Frontend Sharding React Event-driven Architecture Cloud
 Multi-threading Version Control Testing Security React Cache Invalidation
 Cache Invalidation Dream big and dare to fail. JavaScript A/B Testing Edge Computing NLP Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Content Delivery Network IoT GraphQL
+DevOps Kubernetes Docker Load Balancing The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Cloud Functions If you can dream it, you can do it. Lambda Functions
