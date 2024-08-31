@@ -11,3 +11,4 @@ Innovation distinguishes between a leader and a follower. Pull Request Microserv
 Frontend IoT API Cloud Functions Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Deployment Event-driven Architecture
 Virtual Machines Event Sourcing Kafka DNS Routing Monitoring Artificial Intelligence Event-driven Architecture Database Parallel Processing
 Message Queue Predictive Analytics Great things never come from comfort zones. API Gateway Simplicity is the ultimate sophistication. Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Kubernetes Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. RabbitMQ DNS Routing Edge Computing Algorithm Frontend
+Server Response Content Delivery Network Load Balancing Logging CI/CD Testing Act as if what you do makes a difference. It does. Distributed Systems Big Data Framework Do what you love and the money will follow.
