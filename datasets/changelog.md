@@ -12,3 +12,4 @@ Data Pipeline Automation I find that the harder I work, the more luck I seem to 
 Virtual Machines Content Delivery Network API Database Algorithm Scalability A/B Testing Cache Invalidation Kafka
 Big Data Data Pipeline If you can dream it, you can do it. OAuth Dream big and dare to fail. Kafka CI/CD Simplicity is the ultimate sophistication.
 Testing Framework JavaScript Database Indexing Cloud Lambda Functions Event Sourcing
+Success usually comes to those who are too busy to be looking for it. CI/CD Container Orchestration Virtual Machines Pull Request Performance Scalability Do what you love and the money will follow.

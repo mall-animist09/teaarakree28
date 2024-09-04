@@ -19,3 +19,4 @@ Automation Act as if what you do makes a difference. It does. Kubernetes Do what
 React Data Science Data Pipeline Sharding Serverless JWT Version Control Frontend CI/CD To be the best, you must be able to handle the worst. Load Testing Content Delivery Network Algorithm
 Success usually comes to those who are too busy to be looking for it. Testing Machine Learning Load Balancing Event Sourcing RabbitMQ Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Message Queue Event-driven Architecture Version Control Python
 API Gateway Work hard in silence, let your success be your noise. Big Data Version Control Database Indexing Replica Set Artificial Intelligence Docker Act as if what you do makes a difference. It does. Containerization Monitoring
+Act as if what you do makes a difference. It does. Sharding Code Review Database Indexing WebSockets Container Orchestration Neural Networks
