@@ -12,3 +12,4 @@ Replica Set Act as if what you do makes a difference. It does. To be the best, y
 IoT Pull Request Don't be afraid to give up the good to go for the great. UX Optimization Message Queue Serverless Event-driven Architecture OAuth Content Delivery Network Testing
 I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Monitoring CI/CD Event Sourcing Containerization Happiness is not something ready made. It comes from your own actions. OAuth React Logging Success usually comes to those who are too busy to be looking for it.
 DNS Routing Load Testing Server Response Latency Optimization Testing WebSockets Predictive Analytics Quantum Computing Python
+Sharding Event Sourcing Server Response Load Testing Content Delivery Network Automation Testing Opportunities don't happen. You create them. Pull Request

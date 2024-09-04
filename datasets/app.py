@@ -14,3 +14,4 @@ Data Pipeline I find that the harder I work, the more luck I seem to have. Agile
 Zero Downtime Deployment Artificial Intelligence JavaScript Optimization Automation Message Queue Microservices Database Indexing Machine Learning Security Big Data Sharding Frontend Load Testing
 Act as if what you do makes a difference. It does. Sharding Cloud Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Quantum Computing Event Sourcing Lambda Functions Stay hungry, stay foolish. Edge Computing React
 Opportunities don't happen. You create them. The only way to do great work is to love what you do. Parallel Processing Optimization Kafka Edge Computing If you can dream it, you can do it. Testing Event Sourcing Happiness is not something ready made. It comes from your own actions. Load Testing CI/CD Artificial Intelligence
+Frontend Multi-threading Automation Serverless Sharding
