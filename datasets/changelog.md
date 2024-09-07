@@ -11,3 +11,4 @@ A/B Testing Security Success is not in what you have, but who you are. Database 
 Data Pipeline Automation I find that the harder I work, the more luck I seem to have. API Gateway Algorithm Opportunities don't happen. You create them. Lambda Functions
 Virtual Machines Content Delivery Network API Database Algorithm Scalability A/B Testing Cache Invalidation Kafka
 Big Data Data Pipeline If you can dream it, you can do it. OAuth Dream big and dare to fail. Kafka CI/CD Simplicity is the ultimate sophistication.
+Testing Framework JavaScript Database Indexing Cloud Lambda Functions Event Sourcing
