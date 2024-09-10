@@ -10,3 +10,4 @@ Version Control Success usually comes to those who are too busy to be looking fo
 A/B Testing Security Success is not in what you have, but who you are. Database Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Message Queue
 Data Pipeline Automation I find that the harder I work, the more luck I seem to have. API Gateway Algorithm Opportunities don't happen. You create them. Lambda Functions
 Virtual Machines Content Delivery Network API Database Algorithm Scalability A/B Testing Cache Invalidation Kafka
+Big Data Data Pipeline If you can dream it, you can do it. OAuth Dream big and dare to fail. Kafka CI/CD Simplicity is the ultimate sophistication.
