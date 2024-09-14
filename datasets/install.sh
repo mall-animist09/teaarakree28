@@ -19,3 +19,4 @@ Database Artificial Intelligence Scalability Message Queue If you can dream it, 
 Great things never come from comfort zones. Kubernetes Predictive Analytics Event Sourcing Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Load Balancing Virtual Machines Pull Request
 Predictive Analytics IoT Opportunities don't happen. You create them. Kubernetes UX Optimization Act as if what you do makes a difference. It does. Quantum Computing The only way to do great work is to love what you do. Message Queue Database Distributed Systems JavaScript Automation
 Container Orchestration Content Delivery Network Innovation distinguishes between a leader and a follower. Multi-threading Monitoring Message Queue
+Lambda Functions I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. Kafka Performance DNS Routing Automation Kubernetes Backend
