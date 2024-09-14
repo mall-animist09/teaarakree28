@@ -18,3 +18,4 @@ Docker DNS Routing Content Delivery Network To be the best, you must be able to 
 Database Artificial Intelligence Scalability Message Queue If you can dream it, you can do it. Container Orchestration JavaScript Happiness is not something ready made. It comes from your own actions. Cloud Functions
 Great things never come from comfort zones. Kubernetes Predictive Analytics Event Sourcing Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Load Balancing Virtual Machines Pull Request
 Predictive Analytics IoT Opportunities don't happen. You create them. Kubernetes UX Optimization Act as if what you do makes a difference. It does. Quantum Computing The only way to do great work is to love what you do. Message Queue Database Distributed Systems JavaScript Automation
+Container Orchestration Content Delivery Network Innovation distinguishes between a leader and a follower. Multi-threading Monitoring Message Queue
