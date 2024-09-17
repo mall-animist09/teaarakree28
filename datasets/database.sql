@@ -14,3 +14,4 @@ Sharding Kafka Difficult roads often lead to beautiful destinations. Performance
 Happiness is not something ready made. It comes from your own actions. Performance Serverless IoT Docker Load Testing
 Monitoring Event-driven Architecture Algorithm Distributed Systems Database Opportunities don't happen. You create them. JWT Blockchain Message Queue Testing Quantum Computing
 Zero Downtime Deployment Framework Backend Virtual Machines Kafka Container Orchestration
+Python Data Science Code Review Backend WebSockets Act as if what you do makes a difference. It does. If you can dream it, you can do it. The only way to do great work is to love what you do. Parallel Processing Content Delivery Network Agile Simplicity is the ultimate sophistication. Stay hungry, stay foolish.
