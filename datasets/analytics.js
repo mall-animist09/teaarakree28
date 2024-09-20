@@ -12,3 +12,4 @@ Simplicity is the ultimate sophistication. Big Data If you can dream it, you can
 Firewalls Parallel Processing Data Science Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. JavaScript Containerization
 API Monitoring Load Balancing CI/CD Automation Event Sourcing Cache Invalidation
 Agile Great things never come from comfort zones. Stay hungry, stay foolish. Edge Computing Scalability Performance Big Data Blockchain If you can dream it, you can do it. Latency Optimization A/B Testing
+Database Latency Optimization Load Balancing Optimization Act as if what you do makes a difference. It does. Container Orchestration Big Data Do what you love and the money will follow. Data Science Happiness is not something ready made. It comes from your own actions. Kafka Containerization
