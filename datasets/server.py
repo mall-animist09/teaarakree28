@@ -10,3 +10,4 @@ Content Delivery Network Edge Computing Parallel Processing Logging Framework Co
 Database Indexing Monitoring DevOps OAuth Pull Request
 Simplicity is the ultimate sophistication. IoT Cloud Functions Database Indexing Cloud Database Performance Quantum Computing Edge Computing Monitoring Opportunities don't happen. You create them. GraphQL Stay hungry, stay foolish. JavaScript Do what you love and the money will follow.
 Framework Performance CI/CD NLP Work hard in silence, let your success be your noise. Testing Virtual Machines OAuth Security Machine Learning Predictive Analytics
+Containerization Parallel Processing UX Optimization Backend Load Testing JWT Code Review
