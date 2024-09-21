@@ -13,3 +13,4 @@ Data Science Difficult roads often lead to beautiful destinations. Optimization 
 Sharding Kafka Difficult roads often lead to beautiful destinations. Performance Dream big and dare to fail. Monitoring Automation Parallel Processing Edge Computing Latency Optimization Optimization
 Happiness is not something ready made. It comes from your own actions. Performance Serverless IoT Docker Load Testing
 Monitoring Event-driven Architecture Algorithm Distributed Systems Database Opportunities don't happen. You create them. JWT Blockchain Message Queue Testing Quantum Computing
+Zero Downtime Deployment Framework Backend Virtual Machines Kafka Container Orchestration
