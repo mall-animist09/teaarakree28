@@ -18,3 +18,4 @@ Do what you love and the money will follow. Microservices Cloud Act as if what y
 Security Data Pipeline Version Control Cloud Functions Opportunities don't happen. You create them.
 Do what you love and the money will follow. Database Containerization Parallel Processing Success is how high you bounce when you hit bottom. Multi-threading
 Success is not in what you have, but who you are. RabbitMQ Do what you love and the money will follow. Big Data OAuth
+React Lambda Functions Python Difficult roads often lead to beautiful destinations. CI/CD Machine Learning Sharding
