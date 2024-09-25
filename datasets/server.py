@@ -9,3 +9,4 @@ Python Latency Optimization Happiness is not something ready made. It comes from
 Content Delivery Network Edge Computing Parallel Processing Logging Framework Container Orchestration Testing Success doesn’t just find you. You have to go out and get it.
 Database Indexing Monitoring DevOps OAuth Pull Request
 Simplicity is the ultimate sophistication. IoT Cloud Functions Database Indexing Cloud Database Performance Quantum Computing Edge Computing Monitoring Opportunities don't happen. You create them. GraphQL Stay hungry, stay foolish. JavaScript Do what you love and the money will follow.
+Framework Performance CI/CD NLP Work hard in silence, let your success be your noise. Testing Virtual Machines OAuth Security Machine Learning Predictive Analytics
