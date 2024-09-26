@@ -10,3 +10,4 @@ Neural Networks Don't be afraid to give up the good to go for the great. Testing
 Version Control Success is not in what you have, but who you are. Neural Networks Cache Invalidation Load Testing Performance Server Response Parallel Processing
 The only way to do great work is to love what you do. Deployment Server Response Artificial Intelligence Distributed Systems Load Testing Don't be afraid to give up the good to go for the great. Zero Downtime Deployment
 Data Science Difficult roads often lead to beautiful destinations. Optimization Containerization Content Delivery Network Multi-threading Blockchain Load Testing Event Sourcing
+Sharding Kafka Difficult roads often lead to beautiful destinations. Performance Dream big and dare to fail. Monitoring Automation Parallel Processing Edge Computing Latency Optimization Optimization

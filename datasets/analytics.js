@@ -11,3 +11,4 @@ Zero Downtime Deployment Load Balancing Dream big and dare to fail. Agile Cloud 
 Simplicity is the ultimate sophistication. Big Data If you can dream it, you can do it. Microservices Framework To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. JWT Sharding
 Firewalls Parallel Processing Data Science Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. JavaScript Containerization
 API Monitoring Load Balancing CI/CD Automation Event Sourcing Cache Invalidation
+Agile Great things never come from comfort zones. Stay hungry, stay foolish. Edge Computing Scalability Performance Big Data Blockchain If you can dream it, you can do it. Latency Optimization A/B Testing
