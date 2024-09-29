@@ -16,3 +16,4 @@ RabbitMQ CI/CD Kubernetes Monitoring IoT
 Success is how high you bounce when you hit bottom. Multi-threading Sharding Version Control Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Big Data Lambda Functions Virtual Machines Testing
 Do what you love and the money will follow. Microservices Cloud Act as if what you do makes a difference. It does. Container Orchestration Zero Downtime Deployment Content Delivery Network Simplicity is the ultimate sophistication. Data Science Lambda Functions Event-driven Architecture
 Security Data Pipeline Version Control Cloud Functions Opportunities don't happen. You create them.
+Do what you love and the money will follow. Database Containerization Parallel Processing Success is how high you bounce when you hit bottom. Multi-threading
