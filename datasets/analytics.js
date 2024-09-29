@@ -10,3 +10,4 @@ Success usually comes to those who are too busy to be looking for it. Performanc
 Zero Downtime Deployment Load Balancing Dream big and dare to fail. Agile Cloud API Artificial Intelligence Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it.
 Simplicity is the ultimate sophistication. Big Data If you can dream it, you can do it. Microservices Framework To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. JWT Sharding
 Firewalls Parallel Processing Data Science Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. JavaScript Containerization
+API Monitoring Load Balancing CI/CD Automation Event Sourcing Cache Invalidation
