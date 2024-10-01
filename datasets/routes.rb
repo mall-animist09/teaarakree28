@@ -9,3 +9,4 @@ UX Optimization Docker CI/CD Load Balancing Stay hungry, stay foolish. Success d
 Zero Downtime Deployment Load Balancing Dream big and dare to fail. Big Data Testing Success is how high you bounce when you hit bottom. NLP Scalability GraphQL Sharding Frontend Cache Invalidation
 Event-driven Architecture Backend Zero Downtime Deployment RabbitMQ Cloud Functions DevOps DNS Routing Scalability
 Kafka Optimization Replica Set Multi-threading Frontend Sharding React Event-driven Architecture Cloud
+Multi-threading Version Control Testing Security React Cache Invalidation
