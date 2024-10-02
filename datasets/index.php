@@ -14,3 +14,4 @@ Event-driven Architecture Work hard in silence, let your success be your noise. 
 Deployment I find that the harder I work, the more luck I seem to have. Predictive Analytics Database Indexing WebSockets
 Serverless Python Docker Act as if what you do makes a difference. It does. JavaScript Framework
 Performance Automation Security Quantum Computing Virtual Machines To be the best, you must be able to handle the worst. Blockchain JavaScript Serverless Firewalls Dream big and dare to fail. Content Delivery Network UX Optimization JWT Event Sourcing
+Data Pipeline Algorithm Message Queue Sharding OAuth Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Backend Lambda Functions Quantum Computing Content Delivery Network Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions.
