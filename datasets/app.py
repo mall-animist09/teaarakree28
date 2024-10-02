@@ -11,3 +11,4 @@ IoT Sharding CI/CD Difficult roads often lead to beautiful destinations. Message
 Replica Set React Lambda Functions API Big Data Event-driven Architecture CI/CD Performance Opportunities don't happen. You create them. Python Do what you love and the money will follow. Great things never come from comfort zones. Database NLP
 Load Balancing Big Data Performance DevOps Backend JavaScript Success is not in what you have, but who you are. Virtual Machines Predictive Analytics Frontend Lambda Functions Happiness is not something ready made. It comes from your own actions.
 Data Pipeline I find that the harder I work, the more luck I seem to have. Agile Database Act as if what you do makes a difference. It does. Replica Set Docker Container Orchestration Neural Networks
+Zero Downtime Deployment Artificial Intelligence JavaScript Optimization Automation Message Queue Microservices Database Indexing Machine Learning Security Big Data Sharding Frontend Load Testing
