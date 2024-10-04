@@ -8,3 +8,4 @@ Success is not in what you have, but who you are. Load Testing Data Pipeline UX 
 UX Optimization Docker CI/CD Load Balancing Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. IoT Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Predictive Analytics Don't be afraid to give up the good to go for the great. Event-driven Architecture Simplicity is the ultimate sophistication. Agile
 Zero Downtime Deployment Load Balancing Dream big and dare to fail. Big Data Testing Success is how high you bounce when you hit bottom. NLP Scalability GraphQL Sharding Frontend Cache Invalidation
 Event-driven Architecture Backend Zero Downtime Deployment RabbitMQ Cloud Functions DevOps DNS Routing Scalability
+Kafka Optimization Replica Set Multi-threading Frontend Sharding React Event-driven Architecture Cloud
