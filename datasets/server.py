@@ -7,3 +7,4 @@ Data Science Content Delivery Network Deployment API Database Work hard in silen
 Microservices Success is not in what you have, but who you are. API Gateway Kafka Backend Neural Networks Load Testing DNS Routing React Event Sourcing Stay hungry, stay foolish.
 Python Latency Optimization Happiness is not something ready made. It comes from your own actions. Sharding Agile API Gateway Kubernetes Optimization Frontend Pull Request
 Content Delivery Network Edge Computing Parallel Processing Logging Framework Container Orchestration Testing Success doesn’t just find you. You have to go out and get it.
+Database Indexing Monitoring DevOps OAuth Pull Request
