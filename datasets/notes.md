@@ -13,3 +13,4 @@ Virtual Machines Event-driven Architecture Performance React I find that the har
 Data Pipeline IoT RabbitMQ Zero Downtime Deployment JWT Container Orchestration Edge Computing Latency Optimization Agile I find that the harder I work, the more luck I seem to have. Performance
 Multi-threading Code Review Distributed Systems DNS Routing Scalability Serverless Artificial Intelligence
 OAuth Zero Downtime Deployment API Gateway JWT API Database Automation
+Don't be afraid to give up the good to go for the great. Database Indexing JWT Optimization I find that the harder I work, the more luck I seem to have. Latency Optimization Success doesn’t just find you. You have to go out and get it. Multi-threading Kubernetes
