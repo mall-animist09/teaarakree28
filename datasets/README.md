@@ -13,3 +13,4 @@ Message Queue Innovation distinguishes between a leader and a follower. Artifici
 Backend Pull Request Replica Set Testing Virtual Machines
 Kubernetes Zero Downtime Deployment Artificial Intelligence Optimization Success is how high you bounce when you hit bottom.
 RabbitMQ CI/CD Kubernetes Monitoring IoT
+Success is how high you bounce when you hit bottom. Multi-threading Sharding Version Control Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Big Data Lambda Functions Virtual Machines Testing
