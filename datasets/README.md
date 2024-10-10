@@ -12,3 +12,4 @@ Logging NLP Content Delivery Network Quantum Computing JavaScript Performance Fr
 Message Queue Innovation distinguishes between a leader and a follower. Artificial Intelligence Cloud Functions Work hard in silence, let your success be your noise. Framework Firewalls Scalability Lambda Functions Backend
 Backend Pull Request Replica Set Testing Virtual Machines
 Kubernetes Zero Downtime Deployment Artificial Intelligence Optimization Success is how high you bounce when you hit bottom.
+RabbitMQ CI/CD Kubernetes Monitoring IoT
