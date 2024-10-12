@@ -11,3 +11,4 @@ Success usually comes to those who are too busy to be looking for it. API Diffic
 Logging NLP Content Delivery Network Quantum Computing JavaScript Performance Frontend UX Optimization Virtual Machines DevOps Opportunities don't happen. You create them. Pull Request
 Message Queue Innovation distinguishes between a leader and a follower. Artificial Intelligence Cloud Functions Work hard in silence, let your success be your noise. Framework Firewalls Scalability Lambda Functions Backend
 Backend Pull Request Replica Set Testing Virtual Machines
+Kubernetes Zero Downtime Deployment Artificial Intelligence Optimization Success is how high you bounce when you hit bottom.
