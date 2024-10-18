@@ -8,3 +8,4 @@ Containerization Logging Message Queue Great things never come from comfort zone
 Lambda Functions Difficult roads often lead to beautiful destinations. CI/CD Parallel Processing Algorithm
 Machine Learning Multi-threading Server Response Monitoring Quantum Computing Opportunities don't happen. You create them. Data Pipeline
 IoT Sharding CI/CD Difficult roads often lead to beautiful destinations. Message Queue Big Data Parallel Processing Stay hungry, stay foolish. Docker
+Replica Set React Lambda Functions API Big Data Event-driven Architecture CI/CD Performance Opportunities don't happen. You create them. Python Do what you love and the money will follow. Great things never come from comfort zones. Database NLP
