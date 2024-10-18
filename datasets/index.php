@@ -13,3 +13,4 @@ Success usually comes to those who are too busy to be looking for it. I find tha
 Event-driven Architecture Work hard in silence, let your success be your noise. Cache Invalidation Message Queue Server Response Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Parallel Processing
 Deployment I find that the harder I work, the more luck I seem to have. Predictive Analytics Database Indexing WebSockets
 Serverless Python Docker Act as if what you do makes a difference. It does. JavaScript Framework
+Performance Automation Security Quantum Computing Virtual Machines To be the best, you must be able to handle the worst. Blockchain JavaScript Serverless Firewalls Dream big and dare to fail. Content Delivery Network UX Optimization JWT Event Sourcing

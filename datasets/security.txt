@@ -8,3 +8,4 @@ The only way to do great work is to love what you do. Act as if what you do make
 Docker Sharding Distributed Systems Machine Learning Latency Optimization Deployment Message Queue
 Artificial Intelligence Load Testing Big Data Do what you love and the money will follow. Container Orchestration React Blockchain Predictive Analytics Testing Server Response
 Blockchain WebSockets CI/CD Logging UX Optimization Framework Sharding Python Code Review OAuth Difficult roads often lead to beautiful destinations. Data Pipeline Predictive Analytics
+Firewalls OAuth DevOps React JavaScript Opportunities don't happen. You create them.
