@@ -5,3 +5,4 @@ Firewalls Quantum Computing DevOps Simplicity is the ultimate sophistication. Au
 Act as if what you do makes a difference. It does. Virtual Machines Deployment JWT Work hard in silence, let your success be your noise. Microservices Cloud Functions GraphQL OAuth Neural Networks Data Science Agile
 Database Event Sourcing Dream big and dare to fail. Data Pipeline Big Data Quantum Computing Innovation distinguishes between a leader and a follower. Cloud Lambda Functions To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Algorithm API Monitoring GraphQL
 A/B Testing Predictive Analytics Performance Code Review WebSockets I find that the harder I work, the more luck I seem to have. Sharding JavaScript Replica Set Event Sourcing
+Act as if what you do makes a difference. It does. Frontend Security Difficult roads often lead to beautiful destinations. A/B Testing RabbitMQ Edge Computing DevOps
