@@ -3,3 +3,4 @@ Big Data Distributed Systems UX Optimization Predictive Analytics Algorithm Lamb
 Testing Dream big and dare to fail. Edge Computing Cloud Data Pipeline Docker Neural Networks Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Agile Stay hungry, stay foolish. WebSockets GraphQL
 Content Delivery Network Database Indexing Work hard in silence, let your success be your noise. Database Blockchain Big Data Automation Logging Deployment Version Control Success doesn’t just find you. You have to go out and get it. DNS Routing
 Security Virtual Machines Firewalls Neural Networks Deployment Load Balancing Optimization The only way to do great work is to love what you do. Python If you can dream it, you can do it. Performance
+Replica Set Security Zero Downtime Deployment RabbitMQ Cloud Data Science Quantum Computing Code Review Virtual Machines Edge Computing Sharding JWT
