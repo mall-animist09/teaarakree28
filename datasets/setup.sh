@@ -6,3 +6,4 @@ Stay hungry, stay foolish. Load Testing The only way to do great work is to love
 Load Testing Edge Computing Predictive Analytics Lambda Functions Great things never come from comfort zones. Cloud Functions
 Database Edge Computing API Gateway Message Queue Automation Kafka
 Database Do what you love and the money will follow. Opportunities don't happen. You create them. Cloud Functions Server Response Lambda Functions IoT OAuth Machine Learning Container Orchestration Data Science Performance Python Frontend
+API Logging Virtual Machines Firewalls Parallel Processing Container Orchestration Optimization NLP
