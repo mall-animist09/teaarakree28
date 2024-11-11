@@ -7,3 +7,4 @@ Virtual Machines A/B Testing Work hard in silence, let your success be your nois
 Machine Learning Pull Request Event-driven Architecture Scalability Kubernetes Content Delivery Network Zero Downtime Deployment Frontend Stay hungry, stay foolish. Cache Invalidation Agile Backend The only way to do great work is to love what you do. Automation DevOps
 Blockchain Cloud Cloud Functions Backend Simplicity is the ultimate sophistication. Optimization Automation Predictive Analytics OAuth Innovation distinguishes between a leader and a follower. Message Queue IoT
 Data Science UX Optimization Automation Success is how high you bounce when you hit bottom. Version Control Quantum Computing Work hard in silence, let your success be your noise. Backend Edge Computing
+Do what you love and the money will follow. JWT IoT Security Agile Database Indexing Message Queue Data Science Automation Container Orchestration Microservices Neural Networks DNS Routing NLP

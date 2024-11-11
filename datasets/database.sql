@@ -5,3 +5,4 @@ To be the best, you must be able to handle the worst. Automation Serverless Load
 Artificial Intelligence Serverless The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. DevOps IoT Quantum Computing Monitoring Event Sourcing
 Sharding A/B Testing Kafka Deployment Cloud Data Pipeline Optimization I find that the harder I work, the more luck I seem to have. Database Indexing
 Stay hungry, stay foolish. Algorithm A/B Testing Success is how high you bounce when you hit bottom. API Logging Automation
+Cache Invalidation I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Performance OAuth Edge Computing Sharding Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. React Deployment Monitoring Distributed Systems Serverless
