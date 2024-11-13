@@ -12,3 +12,4 @@ Load Balancing Neural Networks Parallel Processing Event Sourcing Opportunities 
 GraphQL React Event-driven Architecture Distributed Systems I find that the harder I work, the more luck I seem to have. Parallel Processing Code Review
 React Innovation distinguishes between a leader and a follower. Framework Cloud Happiness is not something ready made. It comes from your own actions. Optimization
 Cloud Functions Docker IoT RabbitMQ Replica Set Multi-threading Python Pull Request UX Optimization React Quantum Computing Frontend Kafka Server Response Success is not in what you have, but who you are.
+Framework Simplicity is the ultimate sophistication. Kubernetes Zero Downtime Deployment Containerization Kafka WebSockets Stay hungry, stay foolish. Data Science OAuth Docker UX Optimization Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Replica Set

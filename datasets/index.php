@@ -12,3 +12,4 @@ Backend Serverless WebSockets Server Response Cloud Kafka Innovation distinguish
 Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Logging The only way to do great work is to love what you do. Monitoring Success is not in what you have, but who you are. Zero Downtime Deployment Containerization Quantum Computing RabbitMQ Machine Learning
 Event-driven Architecture Work hard in silence, let your success be your noise. Cache Invalidation Message Queue Server Response Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Parallel Processing
 Deployment I find that the harder I work, the more luck I seem to have. Predictive Analytics Database Indexing WebSockets
+Serverless Python Docker Act as if what you do makes a difference. It does. JavaScript Framework
