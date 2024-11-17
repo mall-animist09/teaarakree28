@@ -7,3 +7,4 @@ Success usually comes to those who are too busy to be looking for it. Container 
 Containerization Logging Message Queue Great things never come from comfort zones. Version Control Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. IoT Kubernetes Work hard in silence, let your success be your noise. Multi-threading Latency Optimization
 Lambda Functions Difficult roads often lead to beautiful destinations. CI/CD Parallel Processing Algorithm
 Machine Learning Multi-threading Server Response Monitoring Quantum Computing Opportunities don't happen. You create them. Data Pipeline
+IoT Sharding CI/CD Difficult roads often lead to beautiful destinations. Message Queue Big Data Parallel Processing Stay hungry, stay foolish. Docker
