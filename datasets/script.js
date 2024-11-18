@@ -11,3 +11,4 @@ Data Science Happiness is not something ready made. It comes from your own actio
 Load Balancing Neural Networks Parallel Processing Event Sourcing Opportunities don't happen. You create them. Stay hungry, stay foolish. JavaScript Kubernetes Artificial Intelligence Backend DevOps Database Data Pipeline React Zero Downtime Deployment
 GraphQL React Event-driven Architecture Distributed Systems I find that the harder I work, the more luck I seem to have. Parallel Processing Code Review
 React Innovation distinguishes between a leader and a follower. Framework Cloud Happiness is not something ready made. It comes from your own actions. Optimization
+Cloud Functions Docker IoT RabbitMQ Replica Set Multi-threading Python Pull Request UX Optimization React Quantum Computing Frontend Kafka Server Response Success is not in what you have, but who you are.
