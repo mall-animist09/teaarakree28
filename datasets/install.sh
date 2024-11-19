@@ -11,3 +11,4 @@ Data Pipeline Kubernetes Algorithm Cache Invalidation Optimization Load Testing 
 Big Data Algorithm Performance Agile Stay hungry, stay foolish. Framework Event-driven Architecture A/B Testing Zero Downtime Deployment Predictive Analytics
 Load Balancing I find that the harder I work, the more luck I seem to have. Event-driven Architecture RabbitMQ Performance Distributed Systems Kafka Edge Computing
 Success is how high you bounce when you hit bottom. Lambda Functions JWT Latency Optimization Happiness is not something ready made. It comes from your own actions.
+Success is not in what you have, but who you are. A/B Testing Agile Automation JWT Event-driven Architecture Message Queue Neural Networks Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Parallel Processing Cloud Functions Edge Computing Scalability CI/CD

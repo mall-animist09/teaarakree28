@@ -10,3 +10,4 @@ WebSockets Data Pipeline Success usually comes to those who are too busy to be l
 Data Science Happiness is not something ready made. It comes from your own actions. Edge Computing Frontend Great things never come from comfort zones. Load Balancing DevOps
 Load Balancing Neural Networks Parallel Processing Event Sourcing Opportunities don't happen. You create them. Stay hungry, stay foolish. JavaScript Kubernetes Artificial Intelligence Backend DevOps Database Data Pipeline React Zero Downtime Deployment
 GraphQL React Event-driven Architecture Distributed Systems I find that the harder I work, the more luck I seem to have. Parallel Processing Code Review
+React Innovation distinguishes between a leader and a follower. Framework Cloud Happiness is not something ready made. It comes from your own actions. Optimization
