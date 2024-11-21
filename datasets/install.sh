@@ -10,3 +10,4 @@ Optimization Kubernetes Serverless Lambda Functions Act as if what you do makes 
 Data Pipeline Kubernetes Algorithm Cache Invalidation Optimization Load Testing Kafka Event-driven Architecture
 Big Data Algorithm Performance Agile Stay hungry, stay foolish. Framework Event-driven Architecture A/B Testing Zero Downtime Deployment Predictive Analytics
 Load Balancing I find that the harder I work, the more luck I seem to have. Event-driven Architecture RabbitMQ Performance Distributed Systems Kafka Edge Computing
+Success is how high you bounce when you hit bottom. Lambda Functions JWT Latency Optimization Happiness is not something ready made. It comes from your own actions.

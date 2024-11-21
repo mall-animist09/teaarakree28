@@ -3,3 +3,4 @@ Data Science Load Testing Neural Networks Act as if what you do makes a differen
 Latency Optimization Framework DNS Routing Server Response DevOps JavaScript
 Frontend Message Queue Do what you love and the money will follow. React Zero Downtime Deployment Event-driven Architecture Event Sourcing Microservices NLP A/B Testing Database Indexing Code Review Data Science Don't be afraid to give up the good to go for the great. Edge Computing
 Difficult roads often lead to beautiful destinations. Latency Optimization Success is not in what you have, but who you are. Machine Learning A/B Testing
+Blockchain Simplicity is the ultimate sophistication. Testing Success is not in what you have, but who you are. Cache Invalidation Performance Sharding Monitoring Code Review If you can dream it, you can do it. Automation
