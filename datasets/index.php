@@ -8,3 +8,4 @@ Message Queue Python GraphQL IoT Innovation distinguishes between a leader and a
 Act as if what you do makes a difference. It does. Replica Set Blockchain Predictive Analytics Pull Request
 Message Queue Frontend Edge Computing JavaScript Automation If you can dream it, you can do it. Simplicity is the ultimate sophistication. Quantum Computing Database Indexing Artificial Intelligence Container Orchestration React Agile Data Pipeline UX Optimization
 Server Response Load Balancing Cloud Sharding Algorithm IoT Virtual Machines Data Pipeline JWT Big Data
+Backend Serverless WebSockets Server Response Cloud Kafka Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Automation Data Science Content Delivery Network Firewalls Docker

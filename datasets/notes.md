@@ -11,3 +11,4 @@ Distributed Systems Event-driven Architecture Automation Act as if what you do m
 Server Response Scalability Edge Computing Cloud Testing Event-driven Architecture Framework Frontend Python OAuth
 Virtual Machines Event-driven Architecture Performance React I find that the harder I work, the more luck I seem to have. JWT
 Data Pipeline IoT RabbitMQ Zero Downtime Deployment JWT Container Orchestration Edge Computing Latency Optimization Agile I find that the harder I work, the more luck I seem to have. Performance
+Multi-threading Code Review Distributed Systems DNS Routing Scalability Serverless Artificial Intelligence
