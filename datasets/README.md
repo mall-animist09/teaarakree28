@@ -4,3 +4,4 @@ Distributed Systems Microservices Message Queue Backend Multi-threading Version 
 Docker WebSockets Parallel Processing Serverless Version Control Containerization UX Optimization
 Kubernetes Algorithm Kafka The only way to do great work is to love what you do. Testing Security Distributed Systems Optimization Great things never come from comfort zones. Parallel Processing API Gateway Multi-threading
 Serverless Performance React OAuth Neural Networks Backend
+Cache Invalidation Zero Downtime Deployment Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Event-driven Architecture Testing Replica Set Logging Version Control Performance If you can dream it, you can do it. Quantum Computing Event Sourcing
