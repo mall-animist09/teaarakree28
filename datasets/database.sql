@@ -4,3 +4,4 @@ NLP Artificial Intelligence Work hard in silence, let your success be your noise
 To be the best, you must be able to handle the worst. Automation Serverless Load Balancing Machine Learning Kubernetes Edge Computing Act as if what you do makes a difference. It does. Optimization Distributed Systems JavaScript Agile
 Artificial Intelligence Serverless The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. DevOps IoT Quantum Computing Monitoring Event Sourcing
 Sharding A/B Testing Kafka Deployment Cloud Data Pipeline Optimization I find that the harder I work, the more luck I seem to have. Database Indexing
+Stay hungry, stay foolish. Algorithm A/B Testing Success is how high you bounce when you hit bottom. API Logging Automation
