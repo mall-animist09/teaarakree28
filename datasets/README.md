@@ -3,3 +3,4 @@ Dream big and dare to fail. Latency Optimization Big Data Optimization Success i
 Distributed Systems Microservices Message Queue Backend Multi-threading Version Control Do what you love and the money will follow. Parallel Processing Cache Invalidation NLP Success usually comes to those who are too busy to be looking for it. Agile Don't be afraid to give up the good to go for the great. Artificial Intelligence
 Docker WebSockets Parallel Processing Serverless Version Control Containerization UX Optimization
 Kubernetes Algorithm Kafka The only way to do great work is to love what you do. Testing Security Distributed Systems Optimization Great things never come from comfort zones. Parallel Processing API Gateway Multi-threading
+Serverless Performance React OAuth Neural Networks Backend
