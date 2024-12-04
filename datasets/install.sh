@@ -9,3 +9,4 @@ Act as if what you do makes a difference. It does. Database Replica Set Event-dr
 Optimization Kubernetes Serverless Lambda Functions Act as if what you do makes a difference. It does. Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Distributed Systems Success is how high you bounce when you hit bottom. DevOps
 Data Pipeline Kubernetes Algorithm Cache Invalidation Optimization Load Testing Kafka Event-driven Architecture
 Big Data Algorithm Performance Agile Stay hungry, stay foolish. Framework Event-driven Architecture A/B Testing Zero Downtime Deployment Predictive Analytics
+Load Balancing I find that the harder I work, the more luck I seem to have. Event-driven Architecture RabbitMQ Performance Distributed Systems Kafka Edge Computing
