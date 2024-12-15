@@ -5,3 +5,4 @@ Code Review Kubernetes Event Sourcing GraphQL Firewalls Lambda Functions Do what
 Replica Set OAuth Cloud Logging Load Balancing Neural Networks Cache Invalidation
 Backend Database Replica Set Automation Framework Code Review Zero Downtime Deployment Success is how high you bounce when you hit bottom. Neural Networks IoT
 Big Data Multi-threading Quantum Computing Zero Downtime Deployment Deployment CI/CD Cloud Containerization API
+Pull Request To be the best, you must be able to handle the worst. GraphQL Happiness is not something ready made. It comes from your own actions. Database Indexing OAuth UX Optimization Success is how high you bounce when you hit bottom. Optimization I find that the harder I work, the more luck I seem to have.
