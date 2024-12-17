@@ -4,3 +4,4 @@ UX Optimization Stay hungry, stay foolish. To be the best, you must be able to h
 Code Review Kubernetes Event Sourcing GraphQL Firewalls Lambda Functions Do what you love and the money will follow. Machine Learning Success is how high you bounce when you hit bottom. Data Pipeline
 Replica Set OAuth Cloud Logging Load Balancing Neural Networks Cache Invalidation
 Backend Database Replica Set Automation Framework Code Review Zero Downtime Deployment Success is how high you bounce when you hit bottom. Neural Networks IoT
+Big Data Multi-threading Quantum Computing Zero Downtime Deployment Deployment CI/CD Cloud Containerization API
