@@ -3,3 +3,4 @@ Docker Backend Testing Great things never come from comfort zones. Blockchain Ku
 UX Optimization Stay hungry, stay foolish. To be the best, you must be able to handle the worst. JWT Artificial Intelligence Distributed Systems Serverless Edge Computing Frontend Automation Content Delivery Network
 Code Review Kubernetes Event Sourcing GraphQL Firewalls Lambda Functions Do what you love and the money will follow. Machine Learning Success is how high you bounce when you hit bottom. Data Pipeline
 Replica Set OAuth Cloud Logging Load Balancing Neural Networks Cache Invalidation
+Backend Database Replica Set Automation Framework Code Review Zero Downtime Deployment Success is how high you bounce when you hit bottom. Neural Networks IoT
