@@ -3,3 +3,4 @@ NLP Containerization Replica Set Microservices Opportunities don't happen. You c
 Agile Parallel Processing Dream big and dare to fail. UX Optimization Frontend Virtual Machines Backend If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Cloud Functions Kafka Message Queue OAuth Security
 Backend CI/CD A/B Testing Cloud Data Science The only way to do great work is to love what you do. Message Queue Performance Dream big and dare to fail. Microservices Load Testing Testing If you can dream it, you can do it.
 Difficult roads often lead to beautiful destinations. Database Success is how high you bounce when you hit bottom. Firewalls Server Response Version Control NLP GraphQL
+Parallel Processing Cloud Python Virtual Machines Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Code Review Monitoring The only way to do great work is to love what you do. Dream big and dare to fail.

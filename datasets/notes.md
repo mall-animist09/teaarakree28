@@ -8,3 +8,4 @@ Great things never come from comfort zones. Microservices Distributed Systems Re
 Cloud Functions Logging Neural Networks NLP Cloud Event-driven Architecture
 Monitoring JavaScript Security Event Sourcing CI/CD WebSockets API Success usually comes to those who are too busy to be looking for it.
 Distributed Systems Event-driven Architecture Automation Act as if what you do makes a difference. It does. Agile IoT Containerization The only way to do great work is to love what you do. Database Deployment Data Science A/B Testing
+Server Response Scalability Edge Computing Cloud Testing Event-driven Architecture Framework Frontend Python OAuth
