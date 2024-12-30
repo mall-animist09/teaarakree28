@@ -2,3 +2,4 @@ Lambda Functions Success is not in what you have, but who you are. Server Respon
 Parallel Processing Data Pipeline Predictive Analytics Success is how high you bounce when you hit bottom. IoT Neural Networks
 DNS Routing Multi-threading Message Queue API A/B Testing Performance NLP Success doesn’t just find you. You have to go out and get it. UX Optimization
 NLP Framework Latency Optimization Event-driven Architecture Cloud Functions Performance Security Containerization Logging Simplicity is the ultimate sophistication. Database Frontend
+React Innovation distinguishes between a leader and a follower. Load Testing Testing OAuth CI/CD Success is not in what you have, but who you are. Virtual Machines Success doesn’t just find you. You have to go out and get it. A/B Testing Parallel Processing Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Event-driven Architecture Data Pipeline
