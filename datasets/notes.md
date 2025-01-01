@@ -6,3 +6,4 @@ Backend IoT Difficult roads often lead to beautiful destinations. Data Science T
 Containerization CI/CD Edge Computing UX Optimization Microservices Big Data Blockchain GraphQL Scalability Latency Optimization If you can dream it, you can do it. To be the best, you must be able to handle the worst.
 Great things never come from comfort zones. Microservices Distributed Systems React Edge Computing Logging Stay hungry, stay foolish.
 Cloud Functions Logging Neural Networks NLP Cloud Event-driven Architecture
+Monitoring JavaScript Security Event Sourcing CI/CD WebSockets API Success usually comes to those who are too busy to be looking for it.
