@@ -3,3 +3,4 @@ Simplicity is the ultimate sophistication. Microservices Pull Request Success is
 Python Cloud The only way to do great work is to love what you do. Event-driven Architecture Sharding CI/CD Lambda Functions Stay hungry, stay foolish. DNS Routing Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. Edge Computing Do what you love and the money will follow. Server Response
 Blockchain Algorithm Don't be afraid to give up the good to go for the great. Kafka Quantum Computing Success is how high you bounce when you hit bottom. Code Review
 Testing API Simplicity is the ultimate sophistication. Multi-threading Success is not in what you have, but who you are. Zero Downtime Deployment Containerization
+Do what you love and the money will follow. Content Delivery Network Framework Serverless Performance
