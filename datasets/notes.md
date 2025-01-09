@@ -4,3 +4,4 @@ Logging Serverless Kafka UX Optimization Edge Computing Innovation distinguishes
 OAuth JWT Kafka Load Balancing I find that the harder I work, the more luck I seem to have. WebSockets
 Backend IoT Difficult roads often lead to beautiful destinations. Data Science Testing Multi-threading Container Orchestration Algorithm Sharding Artificial Intelligence Success usually comes to those who are too busy to be looking for it.
 Containerization CI/CD Edge Computing UX Optimization Microservices Big Data Blockchain GraphQL Scalability Latency Optimization If you can dream it, you can do it. To be the best, you must be able to handle the worst.
+Great things never come from comfort zones. Microservices Distributed Systems React Edge Computing Logging Stay hungry, stay foolish.
