@@ -4,3 +4,4 @@ Deployment Great things never come from comfort zones. OAuth The only way to do 
 To be the best, you must be able to handle the worst. Content Delivery Network Scalability CI/CD Parallel Processing Load Balancing JWT Cloud Performance NLP Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Logging Opportunities don't happen. You create them. Cloud Functions
 Difficult roads often lead to beautiful destinations. Replica Set OAuth Event-driven Architecture Big Data
 Performance Artificial Intelligence Firewalls Edge Computing Microservices Don't be afraid to give up the good to go for the great. Algorithm A/B Testing Stay hungry, stay foolish. API Agile
+Edge Computing Monitoring Data Pipeline NLP I find that the harder I work, the more luck I seem to have. Latency Optimization Cloud JavaScript Replica Set Data Science Message Queue

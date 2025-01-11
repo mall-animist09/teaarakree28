@@ -2,3 +2,4 @@ Automation DNS Routing Backend Distributed Systems JWT Success is not in what yo
 NLP Containerization Replica Set Microservices Opportunities don't happen. You create them. Performance Distributed Systems Database Indexing Stay hungry, stay foolish. CI/CD
 Agile Parallel Processing Dream big and dare to fail. UX Optimization Frontend Virtual Machines Backend If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Cloud Functions Kafka Message Queue OAuth Security
 Backend CI/CD A/B Testing Cloud Data Science The only way to do great work is to love what you do. Message Queue Performance Dream big and dare to fail. Microservices Load Testing Testing If you can dream it, you can do it.
+Difficult roads often lead to beautiful destinations. Database Success is how high you bounce when you hit bottom. Firewalls Server Response Version Control NLP GraphQL
