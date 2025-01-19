@@ -1,2 +1,3 @@
 Cloud Functions Testing Parallel Processing To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. NLP Performance Kubernetes Database Lambda Functions Monitoring
 To be the best, you must be able to handle the worst. GraphQL Zero Downtime Deployment Content Delivery Network API Sharding Kafka Kubernetes IoT Code Review UX Optimization Stay hungry, stay foolish. Docker
+Deployment Great things never come from comfort zones. OAuth The only way to do great work is to love what you do. Container Orchestration Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Optimization Containerization Testing Neural Networks JavaScript Virtual Machines
