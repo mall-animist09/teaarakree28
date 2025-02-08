@@ -1,0 +1,1 @@
+Act as if what you do makes a difference. It does. Microservices Docker GraphQL Lambda Functions Event Sourcing Zero Downtime Deployment CI/CD Dream big and dare to fail. The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Framework
